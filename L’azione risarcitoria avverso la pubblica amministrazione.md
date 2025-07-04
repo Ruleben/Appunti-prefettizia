@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: false
----
 # L’azione risarcitoria avverso la pubblica amministrazione
 
 ## I rapporti tra azione di annullamento e azione risarcitoria: la questione della “pregiudiziale” amministrativa
