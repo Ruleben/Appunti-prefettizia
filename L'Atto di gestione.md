@@ -1,0 +1,1 @@
+L’atto di gestione consiste nell’azione da parte del soggetto che si prende cura del bene altrui senza che la cosa gli sia stata affidata orginaiziaria. 
